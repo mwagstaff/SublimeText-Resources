@@ -16,7 +16,8 @@ It's a lovely font, and you can grab it from here:
 
 ##4. Update user preferences
 
-`{
+```
+{
   "bold_folder_labels": true,
   "caret_style": "phase",
   "color_scheme": "Packages/Theme - Appealr/appealr-color-scheme.tmTheme",
@@ -51,5 +52,5 @@ It's a lovely font, and you can grab it from here:
   "use_simple_full_screen": true,
   "wide_caret": true,
   "word_wrap": true
-}`
-
+}
+```
