@@ -1,7 +1,7 @@
-sublimetext
+SublimeText-Resources
 ===========
 
-Preferences and resources for SublimeText
+User preferences file and associated resources for SublimeText.
 
 Pre-requisites:
 
