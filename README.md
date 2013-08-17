@@ -15,7 +15,7 @@ It's a lovely font, and you can grab it from here:
 `git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"`
 
 ##4. Update user preferences
-
+Set your user preferences to the following (note that you may wish to alter the font size depending on your screen resolution), sit back, and admire the results...
 ```
 {
   "bold_folder_labels": true,
