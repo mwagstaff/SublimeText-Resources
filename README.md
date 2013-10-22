@@ -6,26 +6,26 @@ User preferences file and associated resources for SublimeText.
 It's a lovely font, and you can grab it from here:
 * https://github.com/adobe/source-code-pro
 
-##2. Install Appealr theme
-`cd "/Users/$USER/Library/Application Support/Sublime Text 2/Packages"`
-`git clone https://github.com/manikrathee/appealr "Theme - Appealr"`
+##2. Install Package Control
+https://sublime.wbond.net/installation
 
-##3. Install Soda theme
-`cd "/Users/$USER/Library/Application Support/Sublime Text 2/Packages"`
-`git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"`
+##3. Install Appealr and Soda theme
+Search for `Appealr` in Package Control and install
 
-##4. Update user preferences
+##4. Install Soda theme
+Search for `Soda` in Package Control and install
+
+##5. Update user preferences
 Set your user preferences to the following (note that you may wish to alter the font size depending on your screen resolution), sit back, and admire the results...
 ```
 {
   "bold_folder_labels": true,
   "caret_style": "phase",
-  "color_scheme": "Packages/Theme - Appealr/appealr-color-scheme.tmTheme",
   "detect_slow_plugins": false,
   "draw_indent_guides": true,
   "draw_white_space": "selection",
   "font_face": "Source Code Pro",
-  "font_size": 13.0,
+  "font_size": 10.0,
   "highlight_line": true,
   "highlight_modified_tabs": true,
   "ignored_packages":
@@ -54,3 +54,9 @@ Set your user preferences to the following (note that you may wish to alter the 
   "word_wrap": true
 }
 ```
+
+##6. Activate the Appealr colour scheme
+Preferences -> Color Scheme -> Appealr -> appealr-color-scheme
+
+##7. Install packages...
+https://sublime.wbond.net/browse/popular
